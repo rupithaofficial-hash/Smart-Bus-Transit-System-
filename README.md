@@ -1,4 +1,4 @@
-# Smart-Bus-Transit-System-
+# Smart-Bus-Transit-System
 Frontend prototype for an automated public transit tracking system. Built for Puduvai Innovathon 2026.
 
 # AI-Assisted Smart Bus Decision System 🚍
